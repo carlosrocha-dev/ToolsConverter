@@ -1,4 +1,8 @@
-# Currency and Temperature Conversion Tool
+# Tools Converter
+
+[![Versão do Projeto](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://carlosrocha.com.br)
+ [![Tecnologia Java](https://img.shields.io/badge/Java-11-orange.svg)](https://www.java.com)
+
 
 This project aims to create a currency and temperature conversion tool using the Java programming language. The tool is designed to meet the specific requirements outlined by our client. The primary features of the tool include currency conversion between different currencies and the ability to convert temperatures between Celsius and Fahrenheit.
 
